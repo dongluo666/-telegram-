@@ -1,7 +1,7 @@
 # Telegram 注册完整教程 | How to Create a Telegram Account (2026 Latest)
 ## 简体中文 | English
 
-+++需要成品号 QQ2717344421 包登录 有质保+++
+###✅需要成品号 QQ2717344421 包登录 有质保✅
 > 本教程仅用于技术学习，使用Telegram请遵守所在地区法律法规及Telegram官方用户协议。
 > This guide is for technical learning only. Please comply with local laws and Telegram's official user agreement when using Telegram.
 
